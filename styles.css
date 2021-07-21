@@ -75,7 +75,8 @@ section#projects{
 }
 
 header{
-    position: sticky;
+    position: fixed;
+    width: 100%;
     top: 0;
     padding-top: 30px;
     padding-bottom: 30px;
